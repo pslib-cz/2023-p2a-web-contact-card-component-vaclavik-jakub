@@ -30,7 +30,7 @@ html {
     text-align: left;
 }
 
-.cardHeader{
+.card_header{
     width: 10em;
     height: 10em;
     border-radius: 100%;
@@ -40,12 +40,12 @@ html {
     border: .15em solid white;
 }
 
-.cardContent{
+.card_content{
     padding: 1em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.cardHeading{
+.card_heading{
     font-size: 1.15em;
     margin: 0;
     margin-bottom: 1em;
@@ -53,7 +53,7 @@ html {
     border-bottom: 1px solid black;
 }
 
-.card img{
+.card_img{
     width: 100%;
     height: auto;
 }
